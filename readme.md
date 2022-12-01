@@ -10,7 +10,7 @@ Provide users with features such as:
 - Make sure your Android Studio work well
 - Open this project by your Android Studio
 - Waiting to Android Studio and sync project with gradle file and download all dependencies need
-- Click `run 'app' ▶️ button` or `^+R in Mac` or `Control+R on Window`
+- Click `run 'app' ▶️ button` or `^+R on Mac` or `Control+R on Window`
 - Waiting for your app install.
 - Using carefully 😁
 - **Incase you fail at any step above, I had backup plan, you can use my `forecast-demo.apk` to install**
