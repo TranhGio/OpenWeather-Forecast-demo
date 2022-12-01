@@ -1,0 +1,18 @@
+<resources>
+    <string name="search">Search</string>
+    <string name="today">Today</string>
+    <string name="search_city_weather">Search City Weather</string>
+    <string name="search_for_a_city">Search for a city</string>
+    <string name="enable_gps">Enable GPS</string>
+    <string name="need_allow_permission">You need allow permission to use this app</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="humidity">%s%%</string>
+    <string name="temperature_celsius">°C</string>
+    <string name="temperature_fahrenheit">°F</string>
+    <string name="temperature_change_symbol">⇋</string>
+    <string name="temperature_c">%s°C</string>
+    <string name="all_day_title">%s Weather</string>
+    <string name="see_weather_today">Click to see weather today</string>
+    <string name="current_location">Current location</string>
+</resources>
