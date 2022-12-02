@@ -14,8 +14,12 @@ Provide users with features such as:
 - Waiting for your app install.
 - Using carefully 😁
 - **Incase you fail at any step above, I had backup plan, you can use my `forecast-demo.apk` to install**
---- 
 
+-----
+### Screen record
+https://user-images.githubusercontent.com/22291687/205214897-25584868-7c5e-428c-ad8b-df3cdb21c2d1.mp4
+
+----
 ### Improvement
 This project is very easy to read, understand, maintain and add new features...
 [Open weather map api](https://openweathermap.org/api) has a very detailed and understandable document.
