@@ -13,7 +13,7 @@ Provide users with features such as:
 - Click `run 'app' ▶️ button` or `^+R on Mac` or `Control+R on Window`
 - Waiting for your app install.
 - Using carefully 😁
-- **Incase you fail at any step above, I had backup plan, you can use my `forecast-demo.apk` to install**
+- **Incase you fail at any step above, I had backup plan, you can use my [`forecast-demo.apk`](https://github.com/TranhGio/OpenWeather-Forecast-demo/blob/master/forecast-demo.apk) to install**
 
 -----
 ### Screen record
